@@ -126,8 +126,6 @@ Block quotes consist of indented body elements:
     far end.  That is my theory, it is mine, and belongs to me and I
     own it, and what it is too.
 
-    -- Anne Elk (Miss)
-
 Targets
 -------
 
