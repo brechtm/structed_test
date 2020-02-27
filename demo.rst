@@ -1,5 +1,6 @@
-.. This is a comment. Note how any initial comments are moved by
-   transforms to after the document title, subtitle, and docinfo.
+.. This is demo.txt from the docutils project, stripped from any syntax that is
+   not yet supported by structEd.
+   (original: https://docutils.sourceforge.io/docs/user/rst/demo.txt)
 
 ================================
  reStructuredText Demonstration
