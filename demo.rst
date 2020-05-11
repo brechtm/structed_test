@@ -1,10 +1,8 @@
-.. This is demo.txt from the docutils project, stripped from any syntax that is
-   not yet supported by structEd.
-   (original: https://docutils.sourceforge.io/docs/user/rst/demo.txt)
+.. (original: https://docutils.sourceforge.io/docs/user/rst/demo.txt)
 
 
-reStructuredText Demonstration
-==============================
+reStructuredText Demonstration!!!
+=================================
 
 .. Above is the document title, and below is the subtitle.
    They are transformed from section titles after parsing.
@@ -23,11 +21,17 @@ Section Title
 
 That's it, the text just above this line.
 
+.. role:: zadad
+
+.. role:: haha
+
+.. |subst| replace:: content
+
 
 Transitions
 """""""""""
 
-Here's a transition:
+Here's a transition -- whoopie:
 
 ===============================================================================
 
@@ -41,7 +45,7 @@ Body Elements
 Paragraphs
 """"""""""
 
-A paragraph.
+A paragraph. Kozzabluh!!
 
 
 Inline Markup
@@ -64,8 +68,8 @@ strangely--hyphenated-words.  Adjust-the-width-of-your-browser-window to see
 how the text is wrapped.  -- ---- --------  Now note    the spacing    between
 the    words of    this sentence    (words should    be grouped    in pairs).``
 
-If the ``--pep-references`` option was supplied, there should be a live link to
-PEP 258 here.
+If the ``--pep-references`` option come on hihi was supplied, there should be a
+live link to PEP 258 here.
 
 
 Bullet Lists
