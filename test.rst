@@ -18,4 +18,4 @@ Four
 
 Five
 
-Six seven eight! Try again after 19:45. Now!
+Six seven eight!
