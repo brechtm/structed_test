@@ -14,6 +14,4 @@ Aaha
 
 Moi**moi**blergh
 
-Four
-
 Six seven eight!
