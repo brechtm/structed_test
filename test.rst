@@ -12,6 +12,8 @@ Two zefzef.
 
 Aaha! Two.
 
+Websockets are working!
+
 Moi **moi** blergh...
 
 Six seven eight!
